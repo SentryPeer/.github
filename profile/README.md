@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Help prevent VoIP fraud by detecting early attempts
+### Fraud Detection for VoIP
 
 Use SentryPeer® projects to help prevent VoIP cyberattacks, fraudulent VoIP phone calls (toll fraud) and improve cybersecurity by detecting early stage reconnaissance attempts.
 
